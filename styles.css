@@ -1,0 +1,42 @@
+div#bitcoin 
+{
+    margin: 5px;
+    padding: 5px;
+    font-size: 30px;
+    line-height: 60px;
+    min-height:60px;
+    font-weight: bold;
+    border:1px solid #ccc;
+    border-radius:5px;
+    width:250px;
+    margin-left:auto;
+    margin-right:auto;
+    padding-top:0px;
+    text-align: center;
+    position: relative;
+}
+
+div#horo 
+{
+    position:absolute;
+    right:5px;
+    bottom:-21px;
+    font-size: 12px;
+}
+  
+div#source 
+{
+    font-size:12px;
+    color:#999;
+    position:fixed;
+    bottom:5px;
+    right:5px;  
+}
+  
+div#info 
+{
+    background-color:#eee;
+    min-height: 20px;
+    padding:5px;
+    margin:10px;      
+}
